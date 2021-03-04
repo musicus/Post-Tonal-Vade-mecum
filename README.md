@@ -3,4 +3,8 @@ A collection of jupyter notebooks solving post-tonal music theory problems you d
 ## Notebooks
 ### Pitch Centricity
 - <a href="https://github.com/musicus/Post-Tonal-vade-mecum/blob/development/Hexatonic%20Collections.ipynb">Hexatonic Collections</a>
-
+### Intervals
+- Ordered Pitch Interval (OPI)
+- Unordered Pitch Interval (UPI)
+- Ordered Pitch Class Interval (OPCI)
+- Unordered Pitch Class Interval (UPCI)
