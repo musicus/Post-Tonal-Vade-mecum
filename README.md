@@ -9,5 +9,5 @@ A collection of jupyter notebooks solving post-tonal music theory problems you d
 - [Unordered Pitch Interval (UPI)](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Unordered%20Pitch%20Interval.ipynb)
 - [Ordered Pitch Class Interval (OPCI)](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Ordered%20Pitch%20Class%20Interval.ipynb)
 - [Unordered Pitch Class Interval (UPCI)](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Unordered%20Pitch%20Class%20Interval.ipynb)
-- Using PIs - OPIs, UPIs, OPCIs, and UPCIs
+- [Using PIs - OPIs, UPIs, OPCIs, and UPCIs](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Using%20PIs%20-%20OPIs%2C%20UPIs%2C%20OPCIs%2C%20and%20UPCIs.ipynb)
 
