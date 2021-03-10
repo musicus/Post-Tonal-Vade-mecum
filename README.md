@@ -3,7 +3,7 @@ A collection of jupyter notebooks solving post-tonal music theory problems you d
 ## Topics
 ### Pitch Centricity
 - Diatonic Collections
-- [Whole-Tone Collections](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Whole-tone%20Collections.ipynb)
+- [Whole-tone Collections](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Whole-tone%20Collections.ipynb)
 - [Octatonic Collections](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Octatonic%20Collections.ipynb)
 - [Hexatonic Collections](https://github.com/musicus/Post-Tonal-vade-mecum/blob/development/Hexatonic%20Collections.ipynb)
 - Additional 'Modes of Limited Transposition'
