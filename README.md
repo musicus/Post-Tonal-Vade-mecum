@@ -6,7 +6,7 @@ A collection of jupyter notebooks solving post-tonal music theory problems you d
 - Whole-Tone Collections
 - [Octatonic Collections](https://github.com/musicus/Post-Tonal-Vade-mecum/blob/development/Octatonic%20Collections.ipynb)
 - [Hexatonic Collections](https://github.com/musicus/Post-Tonal-vade-mecum/blob/development/Hexatonic%20Collections.ipynb)
-- Additional 'Modes of Limited Transposition
+- Additional 'Modes of Limited Transposition'
 - Other Collections
 - Inversional Symmetry
 ### Pitch Intervals (PIs)
